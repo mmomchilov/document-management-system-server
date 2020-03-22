@@ -1,0 +1,232 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pirina.Kernel.Logging", "Pirina.Kernel.Logging\Pirina.Kernel.Logging.csproj", "{FF21AD0B-4D7A-44A5-ADAE-AD85075E37B6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pirina.Kernel.Mime", "Pirina.Kernel.Mime\Pirina.Kernel.Mime.csproj", "{1346C9E2-DF61-40D2-A68F-0ACEC331F6AF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pirina.Kernel.Smtp", "Pirina.Kernel.Smtp\Pirina.Kernel.Smtp.csproj", "{248B914C-165D-4449-9376-5E4ADEDB6186}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pirina.Kernel.Validation", "Pirina.Kernel.Validation\Pirina.Kernel.Validation.csproj", "{3C097722-4AAA-46EC-B9A9-739660D4227C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pirina.Kernel", "Pirina.Kernel\Pirina.Kernel.csproj", "{18A84336-5597-49D7-B40B-3636D9861FC0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pirina.Kernel.CQRS", "Pirina.Kernel.CQRS\Pirina.Kernel.CQRS.csproj", "{E2FA539A-CB40-4E0C-8813-8A9630FD75B9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pirina.Kernel.Data", "Pirina.Kernel.Data\Pirina.Kernel.Data.csproj", "{10DAC425-294B-4127-9E27-A3B134DCE162}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pirina.Kernel.Reflection", "Pirina.Kernel.Reflection\Pirina.Kernel.Reflection.csproj", "{74A7F550-01AC-4991-862B-520F2DE9ADA0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pirina.Kernel.Reflection.Tests.L0", "Pirina.Kernel.Reflection.Tests.L0\Pirina.Kernel.Reflection.Tests.L0.csproj", "{E3B992A3-02E7-4ECA-A496-FE0279D7E48B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pirina.Kernel.Tests.L0", "Pirina.Kernel.Tests.L0\Pirina.Kernel.Tests.L0.csproj", "{6629520F-E57D-4D51-BAB2-C039B46B3C28}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pirina.Kernel.Caching", "Pirina.Kernel.Caching\Pirina.Kernel.Caching.csproj", "{F0F8007F-93E9-421E-ABC6-044FA929ADA2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pirina.Kernel.Transport", "Pirina.Kernel.Transport\Pirina.Kernel.Transport.csproj", "{FE8978D3-D6BD-4B72-97D2-687CBE2476EF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pirina.Kernel.Messaging", "Pirina.Kernel.Messaging\Pirina.Kernel.Messaging.csproj", "{518F63FD-35FC-4AF1-B448-294B9415B619}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pirina.Kernel.Message.Handling", "Pirina.Kernel.Message.Handling\Pirina.Kernel.Message.Handling.csproj", "{D9F9392D-25EA-470A-AD5F-8DF5B7B8A70B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pirina.Kernel.Configuration", "Pirina.Kernel.Configuration\Pirina.Kernel.Configuration.csproj", "{0D518503-45A9-473F-904C-1444762A84A0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pirina.Kernel.Security", "Pirina.Kernel.Security\Pirina.Kernel.Security.csproj", "{B6F3E0E7-43DA-4D2B-A5E8-F7BEBF968EFF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pirina.Kernel.Web", "Pirina.Kernel.Web\Pirina.Kernel.Web.csproj", "{4630016D-1E40-40B4-B453-4444296695F1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pirina.Kernel.Cryptography", "Pirina.Kernel.Cryptography\Pirina.Kernel.Cryptography.csproj", "{7F674D0F-BFA1-4164-BC48-95CD8FAEB551}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pirina.Kernel.Cryptography.Tests.L0", "Pirina.Kernel.Cryptography.Tests.L0\Pirina.Kernel.Cryptography.Tests.L0.csproj", "{EA616122-E0B1-4F95-8DCE-1EED733CE72E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pirina.Kernel.Authentication", "Pirina.Kernel.Authentication\Pirina.Kernel.Authentication.csproj", "{E4A9172E-CF8D-4670-A031-91B58E6E364D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pirina.Kernel.Authorisation", "Pirina.Kernel.Authorisation\Pirina.Kernel.Authorisation.csproj", "{357C2D97-D4A4-4D70-8948-090485F7BFE2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pirina.Kernel.Identity", "Pirina.Kernel.Identity\Pirina.Kernel.Identity.csproj", "{7BDF5183-FABB-4F78-B92E-487851C8ED24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pirina.Kernel.Mime.Tests.L0", "Pirina.Kernel.Mime.Tests.L0\Pirina.Kernel.Mime.Tests.L0.csproj", "{1CBDA94A-BEB0-43AD-A2A9-07DF50358C87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF21AD0B-4D7A-44A5-ADAE-AD85075E37B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF21AD0B-4D7A-44A5-ADAE-AD85075E37B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF21AD0B-4D7A-44A5-ADAE-AD85075E37B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF21AD0B-4D7A-44A5-ADAE-AD85075E37B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1346C9E2-DF61-40D2-A68F-0ACEC331F6AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1346C9E2-DF61-40D2-A68F-0ACEC331F6AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1346C9E2-DF61-40D2-A68F-0ACEC331F6AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1346C9E2-DF61-40D2-A68F-0ACEC331F6AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{248B914C-165D-4449-9376-5E4ADEDB6186}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{248B914C-165D-4449-9376-5E4ADEDB6186}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{248B914C-165D-4449-9376-5E4ADEDB6186}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{248B914C-165D-4449-9376-5E4ADEDB6186}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C097722-4AAA-46EC-B9A9-739660D4227C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C097722-4AAA-46EC-B9A9-739660D4227C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C097722-4AAA-46EC-B9A9-739660D4227C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C097722-4AAA-46EC-B9A9-739660D4227C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18A84336-5597-49D7-B40B-3636D9861FC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18A84336-5597-49D7-B40B-3636D9861FC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18A84336-5597-49D7-B40B-3636D9861FC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18A84336-5597-49D7-B40B-3636D9861FC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2FA539A-CB40-4E0C-8813-8A9630FD75B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2FA539A-CB40-4E0C-8813-8A9630FD75B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2FA539A-CB40-4E0C-8813-8A9630FD75B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2FA539A-CB40-4E0C-8813-8A9630FD75B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10DAC425-294B-4127-9E27-A3B134DCE162}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10DAC425-294B-4127-9E27-A3B134DCE162}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10DAC425-294B-4127-9E27-A3B134DCE162}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10DAC425-294B-4127-9E27-A3B134DCE162}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74A7F550-01AC-4991-862B-520F2DE9ADA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74A7F550-01AC-4991-862B-520F2DE9ADA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74A7F550-01AC-4991-862B-520F2DE9ADA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74A7F550-01AC-4991-862B-520F2DE9ADA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3B992A3-02E7-4ECA-A496-FE0279D7E48B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3B992A3-02E7-4ECA-A496-FE0279D7E48B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3B992A3-02E7-4ECA-A496-FE0279D7E48B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3B992A3-02E7-4ECA-A496-FE0279D7E48B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6629520F-E57D-4D51-BAB2-C039B46B3C28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6629520F-E57D-4D51-BAB2-C039B46B3C28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6629520F-E57D-4D51-BAB2-C039B46B3C28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6629520F-E57D-4D51-BAB2-C039B46B3C28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0F8007F-93E9-421E-ABC6-044FA929ADA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0F8007F-93E9-421E-ABC6-044FA929ADA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0F8007F-93E9-421E-ABC6-044FA929ADA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0F8007F-93E9-421E-ABC6-044FA929ADA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE8978D3-D6BD-4B72-97D2-687CBE2476EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE8978D3-D6BD-4B72-97D2-687CBE2476EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE8978D3-D6BD-4B72-97D2-687CBE2476EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE8978D3-D6BD-4B72-97D2-687CBE2476EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{518F63FD-35FC-4AF1-B448-294B9415B619}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{518F63FD-35FC-4AF1-B448-294B9415B619}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{518F63FD-35FC-4AF1-B448-294B9415B619}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{518F63FD-35FC-4AF1-B448-294B9415B619}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9F9392D-25EA-470A-AD5F-8DF5B7B8A70B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9F9392D-25EA-470A-AD5F-8DF5B7B8A70B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9F9392D-25EA-470A-AD5F-8DF5B7B8A70B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9F9392D-25EA-470A-AD5F-8DF5B7B8A70B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D518503-45A9-473F-904C-1444762A84A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D518503-45A9-473F-904C-1444762A84A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D518503-45A9-473F-904C-1444762A84A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D518503-45A9-473F-904C-1444762A84A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6F3E0E7-43DA-4D2B-A5E8-F7BEBF968EFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6F3E0E7-43DA-4D2B-A5E8-F7BEBF968EFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6F3E0E7-43DA-4D2B-A5E8-F7BEBF968EFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6F3E0E7-43DA-4D2B-A5E8-F7BEBF968EFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4630016D-1E40-40B4-B453-4444296695F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4630016D-1E40-40B4-B453-4444296695F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4630016D-1E40-40B4-B453-4444296695F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4630016D-1E40-40B4-B453-4444296695F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F674D0F-BFA1-4164-BC48-95CD8FAEB551}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F674D0F-BFA1-4164-BC48-95CD8FAEB551}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F674D0F-BFA1-4164-BC48-95CD8FAEB551}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F674D0F-BFA1-4164-BC48-95CD8FAEB551}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA616122-E0B1-4F95-8DCE-1EED733CE72E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA616122-E0B1-4F95-8DCE-1EED733CE72E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA616122-E0B1-4F95-8DCE-1EED733CE72E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA616122-E0B1-4F95-8DCE-1EED733CE72E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4A9172E-CF8D-4670-A031-91B58E6E364D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4A9172E-CF8D-4670-A031-91B58E6E364D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4A9172E-CF8D-4670-A031-91B58E6E364D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4A9172E-CF8D-4670-A031-91B58E6E364D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{357C2D97-D4A4-4D70-8948-090485F7BFE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{357C2D97-D4A4-4D70-8948-090485F7BFE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{357C2D97-D4A4-4D70-8948-090485F7BFE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{357C2D97-D4A4-4D70-8948-090485F7BFE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BDF5183-FABB-4F78-B92E-487851C8ED24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BDF5183-FABB-4F78-B92E-487851C8ED24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BDF5183-FABB-4F78-B92E-487851C8ED24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BDF5183-FABB-4F78-B92E-487851C8ED24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CBDA94A-BEB0-43AD-A2A9-07DF50358C87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CBDA94A-BEB0-43AD-A2A9-07DF50358C87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CBDA94A-BEB0-43AD-A2A9-07DF50358C87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CBDA94A-BEB0-43AD-A2A9-07DF50358C87}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {190CD495-880C-47D7-8648-37C203EF6812}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 24
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://Pirina.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Pirina.Kernel.Logging\\Pirina.Kernel.Logging.csproj
+		SccProjectName1 = Pirina.Kernel.Logging
+		SccLocalPath1 = Pirina.Kernel.Logging
+		SccProjectUniqueName2 = Pirina.Kernel.Mime\\Pirina.Kernel.Mime.csproj
+		SccProjectName2 = Pirina.Kernel.Mime
+		SccLocalPath2 = Pirina.Kernel.Mime
+		SccProjectUniqueName3 = Pirina.Kernel.Smtp\\Pirina.Kernel.Smtp.csproj
+		SccProjectName3 = Pirina.Kernel.Smtp
+		SccLocalPath3 = Pirina.Kernel.Smtp
+		SccProjectUniqueName4 = Pirina.Kernel.Validation\\Pirina.Kernel.Validation.csproj
+		SccProjectName4 = Pirina.Kernel.Validation
+		SccLocalPath4 = Pirina.Kernel.Validation
+		SccProjectUniqueName5 = Pirina.Kernel\\Pirina.Kernel.csproj
+		SccProjectName5 = Pirina.Kernel
+		SccLocalPath5 = Pirina.Kernel
+		SccProjectUniqueName6 = Pirina.Kernel.CQRS\\Pirina.Kernel.CQRS.csproj
+		SccProjectName6 = Pirina.Kernel.CQRS
+		SccLocalPath6 = Pirina.Kernel.CQRS
+		SccProjectUniqueName7 = Pirina.Kernel.Data\\Pirina.Kernel.Data.csproj
+		SccProjectName7 = Pirina.Kernel.Data
+		SccLocalPath7 = Pirina.Kernel.Data
+		SccProjectUniqueName8 = Pirina.Kernel.Reflection\\Pirina.Kernel.Reflection.csproj
+		SccProjectName8 = Pirina.Kernel.Reflection
+		SccLocalPath8 = Pirina.Kernel.Reflection
+		SccProjectUniqueName9 = Pirina.Kernel.Reflection.Tests.L0\\Pirina.Kernel.Reflection.Tests.L0.csproj
+		SccProjectName9 = Pirina.Kernel.Reflection.Tests.L0
+		SccLocalPath9 = Pirina.Kernel.Reflection.Tests.L0
+		SccProjectUniqueName10 = Pirina.Kernel.Tests.L0\\Pirina.Kernel.Tests.L0.csproj
+		SccProjectName10 = Pirina.Kernel.Tests.L0
+		SccLocalPath10 = Pirina.Kernel.Tests.L0
+		SccProjectUniqueName11 = Pirina.Kernel.Caching\\Pirina.Kernel.Caching.csproj
+		SccProjectName11 = Pirina.Kernel.Caching
+		SccLocalPath11 = Pirina.Kernel.Caching
+		SccProjectUniqueName12 = Pirina.Kernel.Transport\\Pirina.Kernel.Transport.csproj
+		SccProjectName12 = Pirina.Kernel.Transport
+		SccLocalPath12 = Pirina.Kernel.Transport
+		SccProjectUniqueName13 = Pirina.Kernel.Messaging\\Pirina.Kernel.Messaging.csproj
+		SccProjectName13 = Pirina.Kernel.Messaging
+		SccLocalPath13 = Pirina.Kernel.Messaging
+		SccProjectUniqueName14 = Pirina.Kernel.Message.Handling\\Pirina.Kernel.Message.Handling.csproj
+		SccProjectName14 = Pirina.Kernel.Message.Handling
+		SccLocalPath14 = Pirina.Kernel.Message.Handling
+		SccProjectUniqueName15 = Pirina.Kernel.Configuration\\Pirina.Kernel.Configuration.csproj
+		SccProjectName15 = Pirina.Kernel.Configuration
+		SccLocalPath15 = Pirina.Kernel.Configuration
+		SccProjectUniqueName16 = Pirina.Kernel.Security\\Pirina.Kernel.Security.csproj
+		SccProjectName16 = Pirina.Kernel.Security
+		SccLocalPath16 = Pirina.Kernel.Security
+		SccProjectUniqueName17 = Pirina.Kernel.Web\\Pirina.Kernel.Web.csproj
+		SccProjectName17 = Pirina.Kernel.Web
+		SccLocalPath17 = Pirina.Kernel.Web
+		SccProjectUniqueName18 = Pirina.Kernel.Cryptography\\Pirina.Kernel.Cryptography.csproj
+		SccProjectName18 = Pirina.Kernel.Cryptography
+		SccLocalPath18 = Pirina.Kernel.Cryptography
+		SccProjectUniqueName19 = Pirina.Kernel.Cryptography.Tests.L0\\Pirina.Kernel.Cryptography.Tests.L0.csproj
+		SccProjectName19 = Pirina.Kernel.Cryptography.Tests.L0
+		SccLocalPath19 = Pirina.Kernel.Cryptography.Tests.L0
+		SccProjectUniqueName20 = Pirina.Kernel.Authentication\\Pirina.Kernel.Authentication.csproj
+		SccProjectName20 = Pirina.Kernel.Authentication
+		SccLocalPath20 = Pirina.Kernel.Authentication
+		SccProjectUniqueName21 = Pirina.Kernel.Authorisation\\Pirina.Kernel.Authorisation.csproj
+		SccProjectName21 = Pirina.Kernel.Authorisation
+		SccLocalPath21 = Pirina.Kernel.Authorisation
+		SccProjectUniqueName22 = Pirina.Kernel.Identity\\Pirina.Kernel.Identity.csproj
+		SccProjectName22 = Pirina.Kernel.Identity
+		SccLocalPath22 = Pirina.Kernel.Identity
+		SccProjectUniqueName23 = Pirina.Kernel.Mime.Tests.L0\\Pirina.Kernel.Mime.Tests.L0.csproj
+		SccProjectName23 = Pirina.Kernel.Mime.Tests.L0
+		SccLocalPath23 = Pirina.Kernel.Mime.Tests.L0
+	EndGlobalSection
+EndGlobal
