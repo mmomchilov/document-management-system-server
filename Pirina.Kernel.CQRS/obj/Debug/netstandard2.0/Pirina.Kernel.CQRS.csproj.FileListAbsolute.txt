@@ -1,0 +1,9 @@
+D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.CQRS\bin\Debug\netstandard2.0\Pirina.Kernel.CQRS.deps.json
+D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.CQRS\bin\Debug\netstandard2.0\Pirina.Kernel.CQRS.dll
+D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.CQRS\bin\Debug\netstandard2.0\Pirina.Kernel.CQRS.pdb
+D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.CQRS\obj\Debug\netstandard2.0\Pirina.Kernel.CQRS.csprojAssemblyReference.cache
+D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.CQRS\obj\Debug\netstandard2.0\Pirina.Kernel.CQRS.csproj.CoreCompileInputs.cache
+D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.CQRS\obj\Debug\netstandard2.0\Pirina.Kernel.CQRS.AssemblyInfoInputs.cache
+D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.CQRS\obj\Debug\netstandard2.0\Pirina.Kernel.CQRS.AssemblyInfo.cs
+D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.CQRS\obj\Debug\netstandard2.0\Pirina.Kernel.CQRS.dll
+D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.CQRS\obj\Debug\netstandard2.0\Pirina.Kernel.CQRS.pdb

@@ -1,0 +1,8 @@
+D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Authorisation\bin\Debug\netstandard2.0\Pirina.Kernel.Authorisation.deps.json
+D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Authorisation\bin\Debug\netstandard2.0\Pirina.Kernel.Authorisation.dll
+D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Authorisation\bin\Debug\netstandard2.0\Pirina.Kernel.Authorisation.pdb
+D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Authorisation\obj\Debug\netstandard2.0\Pirina.Kernel.Authorisation.csproj.CoreCompileInputs.cache
+D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Authorisation\obj\Debug\netstandard2.0\Pirina.Kernel.Authorisation.AssemblyInfoInputs.cache
+D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Authorisation\obj\Debug\netstandard2.0\Pirina.Kernel.Authorisation.AssemblyInfo.cs
+D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Authorisation\obj\Debug\netstandard2.0\Pirina.Kernel.Authorisation.dll
+D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Authorisation\obj\Debug\netstandard2.0\Pirina.Kernel.Authorisation.pdb

@@ -1,0 +1,4 @@
+D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Reflection.Tests.L0\obj\Debug\netcoreapp2.0\Pirina.Kernel.Reflection.Tests.L0.csprojAssemblyReference.cache
+D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Reflection.Tests.L0\obj\Debug\netcoreapp2.0\Pirina.Kernel.Reflection.Tests.L0.csproj.CoreCompileInputs.cache
+D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Reflection.Tests.L0\obj\Debug\netcoreapp2.0\Pirina.Kernel.Reflection.Tests.L0.AssemblyInfoInputs.cache
+D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Reflection.Tests.L0\obj\Debug\netcoreapp2.0\Pirina.Kernel.Reflection.Tests.L0.AssemblyInfo.cs

@@ -1,0 +1,9 @@
+D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Caching\bin\Debug\netstandard2.0\Pirina.Kernel.Caching.deps.json
+D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Caching\bin\Debug\netstandard2.0\Pirina.Kernel.Caching.dll
+D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Caching\bin\Debug\netstandard2.0\Pirina.Kernel.Caching.pdb
+D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Caching\obj\Debug\netstandard2.0\Pirina.Kernel.Caching.csprojAssemblyReference.cache
+D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Caching\obj\Debug\netstandard2.0\Pirina.Kernel.Caching.csproj.CoreCompileInputs.cache
+D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Caching\obj\Debug\netstandard2.0\Pirina.Kernel.Caching.AssemblyInfoInputs.cache
+D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Caching\obj\Debug\netstandard2.0\Pirina.Kernel.Caching.AssemblyInfo.cs
+D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Caching\obj\Debug\netstandard2.0\Pirina.Kernel.Caching.dll
+D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Caching\obj\Debug\netstandard2.0\Pirina.Kernel.Caching.pdb

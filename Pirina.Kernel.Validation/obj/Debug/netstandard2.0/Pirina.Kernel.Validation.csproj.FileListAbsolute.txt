@@ -1,0 +1,9 @@
+D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Validation\bin\Debug\netstandard2.0\Pirina.Kernel.Validation.deps.json
+D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Validation\bin\Debug\netstandard2.0\Pirina.Kernel.Validation.dll
+D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Validation\bin\Debug\netstandard2.0\Pirina.Kernel.Validation.pdb
+D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Validation\obj\Debug\netstandard2.0\Pirina.Kernel.Validation.csprojAssemblyReference.cache
+D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Validation\obj\Debug\netstandard2.0\Pirina.Kernel.Validation.csproj.CoreCompileInputs.cache
+D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Validation\obj\Debug\netstandard2.0\Pirina.Kernel.Validation.AssemblyInfoInputs.cache
+D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Validation\obj\Debug\netstandard2.0\Pirina.Kernel.Validation.AssemblyInfo.cs
+D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Validation\obj\Debug\netstandard2.0\Pirina.Kernel.Validation.dll
+D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Validation\obj\Debug\netstandard2.0\Pirina.Kernel.Validation.pdb

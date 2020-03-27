@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kEI3bzu9johlonjBqqODF3y66bhmueKr4yJnC/4D54y2kKpMZFwNOo9t2cqTyO4UsRFDJC2F3SIoVlr34IDoAA==",
+  "success": true,
+  "projectFilePath": "D:\\Software\\Document-management-system\\document-management-system-server-kernel\\Pirina.Kernel.Validation\\Pirina.Kernel.Validation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\system.componentmodel.annotations\\4.5.0\\system.componentmodel.annotations.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
