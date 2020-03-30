@@ -1,0 +1,3 @@
+D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Authentication\obj\Debug\netstandard2.1\Pirina.Kernel.Authentication.csproj.CoreCompileInputs.cache
+D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Authentication\obj\Debug\netstandard2.1\Pirina.Kernel.Authentication.AssemblyInfoInputs.cache
+D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Authentication\obj\Debug\netstandard2.1\Pirina.Kernel.Authentication.AssemblyInfo.cs

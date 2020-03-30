@@ -1,0 +1,24 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.1/",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.1": {},
+    ".NETStandard,Version=v2.1/": {
+      "Pirina.Kernel.Mime/1.0.9": {
+        "runtime": {
+          "Pirina.Kernel.Mime.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pirina.Kernel.Mime/1.0.9": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.1/",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.1": {},
+    ".NETStandard,Version=v2.1/": {
+      "Pirina.Kernel.Logging/1.0.6": {
+        "runtime": {
+          "Pirina.Kernel.Logging.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pirina.Kernel.Logging/1.0.6": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

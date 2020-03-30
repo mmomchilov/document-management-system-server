@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "SDz6CAk/oO/gDmQb+TB8SXMPgTM+KZnE7okdtC5YecfyzqC0RfbtTDJgJcQNia41Qk8lKPwfzLnKmsD1MrJ6+w==",
+  "dgSpecHash": "4AhZ35sjPSE/RpGSLlBC2/Nzr2o3cWgFvivQBdJeMRlYNct2MnD3OeMt86zfB+nKMiq+u1pR939yF53IkEMJig==",
   "success": false,
   "projectFilePath": "D:\\Software\\Document-management-system\\document-management-system-server-kernel\\Pirina.Kernel.Web\\Pirina.Kernel.Web.csproj",
   "expectedPackageFiles": [],
@@ -8,7 +8,7 @@
     {
       "code": "NU1101",
       "level": "Error",
-      "message": "Unable to find package Glasswall.Kernel.Configuration. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages, nuget.org",
+      "message": "Unable to find package Glasswall.Kernel.Configuration. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages, Moda, nuget.org",
       "libraryId": "Glasswall.Kernel.Configuration",
       "targetGraphs": [
         ".NETStandard,Version=v2.1"

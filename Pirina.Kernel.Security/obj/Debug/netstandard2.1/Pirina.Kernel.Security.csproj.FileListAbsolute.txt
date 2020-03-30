@@ -1,0 +1,4 @@
+D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Security\obj\Debug\netstandard2.1\Pirina.Kernel.Security.csprojAssemblyReference.cache
+D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Security\obj\Debug\netstandard2.1\Pirina.Kernel.Security.csproj.CoreCompileInputs.cache
+D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Security\obj\Debug\netstandard2.1\Pirina.Kernel.Security.AssemblyInfoInputs.cache
+D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Security\obj\Debug\netstandard2.1\Pirina.Kernel.Security.AssemblyInfo.cs

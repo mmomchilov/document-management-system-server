@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Provides abstractions and base functionality for data repository and ORM.")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.1.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.1.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Pirina.Kernel.Data")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Pirina.Kernel.Data")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.1.0.0")]

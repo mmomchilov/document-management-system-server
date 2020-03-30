@@ -8,10 +8,10 @@
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Provides abstractions and base functionality for Logging.</description>
     <dependencies>
-      <group targetFramework=".NETStandard2.0" />
+      <group targetFramework=".NETStandard2.1" />
     </dependencies>
   </metadata>
   <files>
-    <file src="D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Logging\bin\Debug\netstandard2.0\Pirina.Kernel.Logging.dll" target="lib\netstandard2.0\Pirina.Kernel.Logging.dll" />
+    <file src="D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Logging\bin\Debug\netstandard2.1\Pirina.Kernel.Logging.dll" target="lib\netstandard2.1\Pirina.Kernel.Logging.dll" />
   </files>
 </package>

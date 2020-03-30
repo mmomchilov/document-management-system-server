@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Pirina.Kernel.Cryptography</id>
+    <version>1.0.0</version>
+    <authors>Pirina.Kernel.Cryptography</authors>
+    <owners>Pirina.Kernel.Cryptography</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Implements hashing, and password encryptor</description>
+    <dependencies>
+      <group targetFramework=".NETStandard2.1">
+        <dependency id="Microsoft.AspNetCore.Cryptography.KeyDerivation" version="2.1.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Cryptography\bin\Debug\netstandard2.1\Pirina.Kernel.Cryptography.dll" target="lib\netstandard2.1\Pirina.Kernel.Cryptography.dll" />
+  </files>
+</package>

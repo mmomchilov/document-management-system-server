@@ -11,7 +11,7 @@
     "C:\\Users\\Dell\\.nuget\\packages\\": {}
   },
   "project": {
-    "version": "1.0.0",
+    "version": "1.0.3",
     "restore": {
       "projectUniqueName": "D:\\Software\\Document-management-system\\document-management-system-server-kernel\\Pirina.Kernel.Transport\\Pirina.Kernel.Transport.csproj",
       "projectName": "Pirina.Kernel.Transport",
@@ -28,7 +28,8 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://pkgs.dev.azure.com/danailgeorgiev/_packaging/danailgeorgiev/nuget/v3/index.json": {}
       },
       "frameworks": {
         "netstandard2.1": {

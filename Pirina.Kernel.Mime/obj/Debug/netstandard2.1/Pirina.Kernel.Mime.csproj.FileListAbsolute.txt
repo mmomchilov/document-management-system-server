@@ -1,0 +1,9 @@
+D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Mime\bin\Debug\netstandard2.1\Pirina.Kernel.Mime.deps.json
+D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Mime\bin\Debug\netstandard2.1\Pirina.Kernel.Mime.dll
+D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Mime\bin\Debug\netstandard2.1\Pirina.Kernel.Mime.pdb
+D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Mime\obj\Debug\netstandard2.1\Pirina.Kernel.Mime.csprojAssemblyReference.cache
+D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Mime\obj\Debug\netstandard2.1\Pirina.Kernel.Mime.csproj.CoreCompileInputs.cache
+D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Mime\obj\Debug\netstandard2.1\Pirina.Kernel.Mime.AssemblyInfoInputs.cache
+D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Mime\obj\Debug\netstandard2.1\Pirina.Kernel.Mime.AssemblyInfo.cs
+D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Mime\obj\Debug\netstandard2.1\Pirina.Kernel.Mime.dll
+D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Mime\obj\Debug\netstandard2.1\Pirina.Kernel.Mime.pdb

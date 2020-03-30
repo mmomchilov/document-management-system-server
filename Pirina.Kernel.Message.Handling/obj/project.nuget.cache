@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Y8+zLV3rTxrXprgdv73mUEJOVIgBRDs+luHmP6vvewK2zfPCR4/gRVaRkIu6yp90YNjrE05RuWiBxtv+8i1jow==",
+  "dgSpecHash": "5GQy9n7Hspr7fnTHtiepxHTkTHODXq8oaUh8glBd2cPKvQKuYiMfXzceXeTdZN02LQsvk85i6Qs1b9YebtRm6g==",
   "success": false,
   "projectFilePath": "D:\\Software\\Document-management-system\\document-management-system-server-kernel\\Pirina.Kernel.Message.Handling\\Pirina.Kernel.Message.Handling.csproj",
   "expectedPackageFiles": [],
@@ -8,7 +8,7 @@
     {
       "code": "NU1101",
       "level": "Error",
-      "message": "Unable to find package Glasswall.Kernel.Messaging. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages, nuget.org",
+      "message": "Unable to find package Glasswall.Kernel.Messaging. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages, Moda, nuget.org",
       "libraryId": "Glasswall.Kernel.Messaging",
       "targetGraphs": [
         ".NETStandard,Version=v2.1"

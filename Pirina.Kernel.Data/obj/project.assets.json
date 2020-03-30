@@ -5,15 +5,13 @@
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    ".NETStandard,Version=v2.1": [
-      "Glasswall.Kernel >= 1.1.5"
-    ]
+    ".NETStandard,Version=v2.1": []
   },
   "packageFolders": {
     "C:\\Users\\Dell\\.nuget\\packages\\": {}
   },
   "project": {
-    "version": "1.0.0",
+    "version": "1.1.0",
     "restore": {
       "projectUniqueName": "D:\\Software\\Document-management-system\\document-management-system-server-kernel\\Pirina.Kernel.Data\\Pirina.Kernel.Data.csproj",
       "projectName": "Pirina.Kernel.Data",
@@ -30,7 +28,8 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://pkgs.dev.azure.com/danailgeorgiev/_packaging/danailgeorgiev/nuget/v3/index.json": {}
       },
       "frameworks": {
         "netstandard2.1": {
@@ -45,12 +44,6 @@
     },
     "frameworks": {
       "netstandard2.1": {
-        "dependencies": {
-          "Glasswall.Kernel": {
-            "target": "Package",
-            "version": "[1.1.5, )"
-          }
-        },
         "imports": [
           "net461",
           "net462",
@@ -69,16 +62,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1101",
-      "level": "Error",
-      "message": "Unable to find package Glasswall.Kernel. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages, nuget.org",
-      "libraryId": "Glasswall.Kernel",
-      "targetGraphs": [
-        ".NETStandard,Version=v2.1"
-      ]
-    }
-  ]
+  }
 }

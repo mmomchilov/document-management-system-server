@@ -13,7 +13,7 @@
     "C:\\Users\\Dell\\.nuget\\packages\\": {}
   },
   "project": {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "restore": {
       "projectUniqueName": "D:\\Software\\Document-management-system\\document-management-system-server-kernel\\Pirina.Kernel.Message.Handling\\Pirina.Kernel.Message.Handling.csproj",
       "projectName": "Pirina.Kernel.Message.Handling",
@@ -30,7 +30,8 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://pkgs.dev.azure.com/danailgeorgiev/_packaging/danailgeorgiev/nuget/v3/index.json": {}
       },
       "frameworks": {
         "netstandard2.1": {
@@ -74,7 +75,7 @@
     {
       "code": "NU1101",
       "level": "Error",
-      "message": "Unable to find package Glasswall.Kernel.Messaging. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages, nuget.org",
+      "message": "Unable to find package Glasswall.Kernel.Messaging. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages, Moda, nuget.org",
       "libraryId": "Glasswall.Kernel.Messaging",
       "targetGraphs": [
         ".NETStandard,Version=v2.1"
