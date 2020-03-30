@@ -18,4 +18,9 @@
     <Compile Remove="Claims\ClaimsIdentityContext.cs" />
   </ItemGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Pirina.Kernel" Version="1.1.2" />
+    <PackageReference Include="Pirina.Kernel.Data" Version="1.0.0" />
+  </ItemGroup>
+
 </Project>

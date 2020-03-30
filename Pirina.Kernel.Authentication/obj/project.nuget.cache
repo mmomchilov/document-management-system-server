@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "Sk0ZfGJW8I8UG0TyexIiNoX08oXfq26aUaiRncRlsy+ElFQFpG7sY66fn/VeZXM43LsZGvG5Kr3a6EjOLIllEw==",
+  "dgSpecHash": "T+HPduk7cCYB5s+qJeWfgkAwX7cnC7Yvg5DNiL7ukhKEVrrY5YV3ikfZWdhyEhVetWpEVMa3MRIPGeL4CdeLmA==",
   "success": true,
   "projectFilePath": "D:\\Software\\Document-management-system\\document-management-system-server-kernel\\Pirina.Kernel.Authentication\\Pirina.Kernel.Authentication.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\pirina.kernel\\1.1.2\\pirina.kernel.1.1.2.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\pirina.kernel.data\\1.0.0\\pirina.kernel.data.1.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
