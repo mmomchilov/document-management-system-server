@@ -1,4 +1,8 @@
-D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Reflection\obj\Debug\netstandard2.1\Pirina.Kernel.Reflection.csprojAssemblyReference.cache
+D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Reflection\bin\Debug\netstandard2.1\Pirina.Kernel.Reflection.deps.json
+D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Reflection\bin\Debug\netstandard2.1\Pirina.Kernel.Reflection.dll
+D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Reflection\bin\Debug\netstandard2.1\Pirina.Kernel.Reflection.pdb
 D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Reflection\obj\Debug\netstandard2.1\Pirina.Kernel.Reflection.csproj.CoreCompileInputs.cache
 D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Reflection\obj\Debug\netstandard2.1\Pirina.Kernel.Reflection.AssemblyInfoInputs.cache
 D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Reflection\obj\Debug\netstandard2.1\Pirina.Kernel.Reflection.AssemblyInfo.cs
+D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Reflection\obj\Debug\netstandard2.1\Pirina.Kernel.Reflection.dll
+D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Reflection\obj\Debug\netstandard2.1\Pirina.Kernel.Reflection.pdb

@@ -1,4 +1,9 @@
+D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Transport\bin\Debug\netstandard2.1\Pirina.Kernel.Transport.deps.json
+D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Transport\bin\Debug\netstandard2.1\Pirina.Kernel.Transport.dll
+D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Transport\bin\Debug\netstandard2.1\Pirina.Kernel.Transport.pdb
 D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Transport\obj\Debug\netstandard2.1\Pirina.Kernel.Transport.csprojAssemblyReference.cache
 D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Transport\obj\Debug\netstandard2.1\Pirina.Kernel.Transport.csproj.CoreCompileInputs.cache
 D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Transport\obj\Debug\netstandard2.1\Pirina.Kernel.Transport.AssemblyInfoInputs.cache
 D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Transport\obj\Debug\netstandard2.1\Pirina.Kernel.Transport.AssemblyInfo.cs
+D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Transport\obj\Debug\netstandard2.1\Pirina.Kernel.Transport.dll
+D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Transport\obj\Debug\netstandard2.1\Pirina.Kernel.Transport.pdb

@@ -14,4 +14,8 @@
     <Version>1.0.7</Version>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Pirina.Kernel.Reflection" Version="1.0.0" />
+  </ItemGroup>
+
 </Project>

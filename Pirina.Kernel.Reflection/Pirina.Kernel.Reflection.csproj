@@ -18,4 +18,8 @@
     <Folder Include="Properties\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Pirina.Kernel" Version="1.1.2" />
+  </ItemGroup>
+
 </Project>

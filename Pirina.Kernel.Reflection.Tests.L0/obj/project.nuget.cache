@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "fMcTFUuxoTh6j+YbhNe8SyoYBlUVqO0eQbiMfN6CrbHU0uoBQKoK3LhO2M3Qt1QXBb4mGi1kx18rmouB3V+4Yw==",
+  "dgSpecHash": "UGSuLRKL4oCRj759bhplQXc0DlkbGQdJn7mJOuWrUeGEpALthjcNg7ReuJxY9GaMF0936VbHW5zD4G40Oktktw==",
   "success": true,
   "projectFilePath": "D:\\Software\\Document-management-system\\document-management-system-server-kernel\\Pirina.Kernel.Reflection.Tests.L0\\Pirina.Kernel.Reflection.Tests.L0.csproj",
   "expectedPackageFiles": [
@@ -20,6 +20,7 @@
     "C:\\Users\\Dell\\.nuget\\packages\\newtonsoft.json\\9.0.1\\newtonsoft.json.9.0.1.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\nunit\\3.10.1\\nunit.3.10.1.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\nunit3testadapter\\3.10.0\\nunit3testadapter.3.10.0.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\pirina.kernel\\1.1.2\\pirina.kernel.1.1.2.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\runtime.native.system\\4.3.0\\runtime.native.system.4.3.0.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\system.appcontext\\4.1.0\\system.appcontext.4.1.0.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",

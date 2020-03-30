@@ -39,9 +39,9 @@
       "frameworks": {
         "netstandard2.1": {
           "dependencies": {
-            "Glasswall.Kernel.Messaging": {
+            "Pirina.Kernel.Messaging": {
               "target": "Package",
-              "version": "[1.0.2, )"
+              "version": "[1.0.0, )"
             }
           },
           "imports": [

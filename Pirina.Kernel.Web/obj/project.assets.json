@@ -1,12 +1,34 @@
 {
   "version": 3,
   "targets": {
-    ".NETStandard,Version=v2.1": {}
+    ".NETStandard,Version=v2.1": {
+      "Pirina.Kernel.Configuration/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.1/Pirina.Kernel.Configuration.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.1/Pirina.Kernel.Configuration.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Pirina.Kernel.Configuration/1.0.0": {
+      "sha512": "bGHvAxCiBIirkGEQVIGh+q6x7tq/8Km28RRaTBoixwRa66j/adaxFA6TxmhZoIKtFbp/F3M6jFx2/S6xzxxDbg==",
+      "type": "package",
+      "path": "pirina.kernel.configuration/1.0.0",
+      "files": [
+        ".nupkg.metadata",
+        "lib/netstandard2.1/Pirina.Kernel.Configuration.dll",
+        "pirina.kernel.configuration.1.0.0.nupkg.sha512",
+        "pirina.kernel.configuration.nuspec"
+      ]
+    }
+  },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.1": [
-      "Glasswall.Kernel.Configuration >= 1.0.0"
+      "Pirina.Kernel.Configuration >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -47,7 +69,7 @@
     "frameworks": {
       "netstandard2.1": {
         "dependencies": {
-          "Glasswall.Kernel.Configuration": {
+          "Pirina.Kernel.Configuration": {
             "target": "Package",
             "version": "[1.0.0, )"
           }
@@ -70,16 +92,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1101",
-      "level": "Error",
-      "message": "Unable to find package Glasswall.Kernel.Configuration. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages, Moda, nuget.org",
-      "libraryId": "Glasswall.Kernel.Configuration",
-      "targetGraphs": [
-        ".NETStandard,Version=v2.1"
-      ]
-    }
-  ]
+  }
 }

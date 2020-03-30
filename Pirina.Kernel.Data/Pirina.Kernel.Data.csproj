@@ -16,4 +16,8 @@
     <FileVersion>1.1.0.0</FileVersion>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Pirina.Kernel" Version="1.1.2" />
+  </ItemGroup>
+
 </Project>

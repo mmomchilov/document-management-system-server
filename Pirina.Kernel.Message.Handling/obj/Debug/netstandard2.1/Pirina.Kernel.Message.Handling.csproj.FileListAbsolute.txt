@@ -1,0 +1,9 @@
+D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Message.Handling\bin\Debug\netstandard2.1\Pirina.Kernel.Message.Handling.deps.json
+D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Message.Handling\bin\Debug\netstandard2.1\Pirina.Kernel.Message.Handling.dll
+D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Message.Handling\bin\Debug\netstandard2.1\Pirina.Kernel.Message.Handling.pdb
+D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Message.Handling\obj\Debug\netstandard2.1\Pirina.Kernel.Message.Handling.csprojAssemblyReference.cache
+D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Message.Handling\obj\Debug\netstandard2.1\Pirina.Kernel.Message.Handling.csproj.CoreCompileInputs.cache
+D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Message.Handling\obj\Debug\netstandard2.1\Pirina.Kernel.Message.Handling.AssemblyInfoInputs.cache
+D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Message.Handling\obj\Debug\netstandard2.1\Pirina.Kernel.Message.Handling.AssemblyInfo.cs
+D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Message.Handling\obj\Debug\netstandard2.1\Pirina.Kernel.Message.Handling.dll
+D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Message.Handling\obj\Debug\netstandard2.1\Pirina.Kernel.Message.Handling.pdb

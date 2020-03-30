@@ -1,0 +1,8 @@
+D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Data\bin\Debug\netstandard2.1\Pirina.Kernel.Data.deps.json
+D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Data\bin\Debug\netstandard2.1\Pirina.Kernel.Data.dll
+D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Data\bin\Debug\netstandard2.1\Pirina.Kernel.Data.pdb
+D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Data\obj\Debug\netstandard2.1\Pirina.Kernel.Data.csproj.CoreCompileInputs.cache
+D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Data\obj\Debug\netstandard2.1\Pirina.Kernel.Data.AssemblyInfoInputs.cache
+D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Data\obj\Debug\netstandard2.1\Pirina.Kernel.Data.AssemblyInfo.cs
+D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Data\obj\Debug\netstandard2.1\Pirina.Kernel.Data.dll
+D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Data\obj\Debug\netstandard2.1\Pirina.Kernel.Data.pdb

@@ -1,7 +1,6 @@
 D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Cryptography\bin\Debug\netstandard2.1\Pirina.Kernel.Cryptography.deps.json
 D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Cryptography\bin\Debug\netstandard2.1\Pirina.Kernel.Cryptography.dll
 D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Cryptography\bin\Debug\netstandard2.1\Pirina.Kernel.Cryptography.pdb
-D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Cryptography\obj\Debug\netstandard2.1\Pirina.Kernel.Cryptography.csprojAssemblyReference.cache
 D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Cryptography\obj\Debug\netstandard2.1\Pirina.Kernel.Cryptography.csproj.CoreCompileInputs.cache
 D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Cryptography\obj\Debug\netstandard2.1\Pirina.Kernel.Cryptography.AssemblyInfoInputs.cache
 D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Cryptography\obj\Debug\netstandard2.1\Pirina.Kernel.Cryptography.AssemblyInfo.cs

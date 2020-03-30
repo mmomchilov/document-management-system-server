@@ -39,7 +39,7 @@
       "frameworks": {
         "netstandard2.1": {
           "dependencies": {
-            "Glasswall.Kernel.Configuration": {
+            "Pirina.Kernel.Configuration": {
               "target": "Package",
               "version": "[1.0.0, )"
             }

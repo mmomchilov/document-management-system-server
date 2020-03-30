@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "eKpqKYdQhPIKJo0QRNqLcvWe0C4VVU89+M7CH2HAfYaTBXFBc/y1OlBAaMvO9D+Eg43msAyk+kMFSupnhjlBhg==",
+  "dgSpecHash": "GXb7TS4nwtW8giV+IWNNu7nbm6gF6q7C4KzwDH3CLXW7tOcH9lMmjz/Mtq5Ny+YugAbJV7X0tjLeatVUvsgO0w==",
   "success": true,
   "projectFilePath": "D:\\Software\\Document-management-system\\document-management-system-server-kernel\\Pirina.Kernel.Data\\Pirina.Kernel.Data.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\pirina.kernel\\1.1.2\\pirina.kernel.1.1.2.nupkg.sha512"
+  ],
   "logs": []
 }

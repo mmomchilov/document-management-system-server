@@ -1,18 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "4AhZ35sjPSE/RpGSLlBC2/Nzr2o3cWgFvivQBdJeMRlYNct2MnD3OeMt86zfB+nKMiq+u1pR939yF53IkEMJig==",
-  "success": false,
+  "dgSpecHash": "rqh+gWius0Bt5uvR+T56vWHCXTX2P3OPgAWHuZaUe+99F1/qP84jy79O8lsayL67ZCdOPUpbNMJ92tbr5gcHtg==",
+  "success": true,
   "projectFilePath": "D:\\Software\\Document-management-system\\document-management-system-server-kernel\\Pirina.Kernel.Web\\Pirina.Kernel.Web.csproj",
-  "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "NU1101",
-      "level": "Error",
-      "message": "Unable to find package Glasswall.Kernel.Configuration. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages, Moda, nuget.org",
-      "libraryId": "Glasswall.Kernel.Configuration",
-      "targetGraphs": [
-        ".NETStandard,Version=v2.1"
-      ]
-    }
-  ]
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\pirina.kernel.configuration\\1.0.0\\pirina.kernel.configuration.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
 }

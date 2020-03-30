@@ -1,0 +1,42 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.1/",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.1": {},
+    ".NETStandard,Version=v2.1/": {
+      "Pirina.Kernel.Web/1.0.7": {
+        "dependencies": {
+          "Pirina.Kernel.Configuration": "1.0.0"
+        },
+        "runtime": {
+          "Pirina.Kernel.Web.dll": {}
+        }
+      },
+      "Pirina.Kernel.Configuration/1.0.0": {
+        "runtime": {
+          "lib/netstandard2.1/Pirina.Kernel.Configuration.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pirina.Kernel.Web/1.0.7": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Pirina.Kernel.Configuration/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-bGHvAxCiBIirkGEQVIGh+q6x7tq/8Km28RRaTBoixwRa66j/adaxFA6TxmhZoIKtFbp/F3M6jFx2/S6xzxxDbg==",
+      "path": "pirina.kernel.configuration/1.0.0",
+      "hashPath": "pirina.kernel.configuration.1.0.0.nupkg.sha512"
+    }
+  }
+}

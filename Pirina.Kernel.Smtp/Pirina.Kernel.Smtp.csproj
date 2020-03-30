@@ -14,4 +14,8 @@
     <Version>1.0.19</Version>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Pirina.Kernel.Mime" Version="1.0.0" />
+  </ItemGroup>
+
 </Project>

@@ -15,7 +15,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Glasswall.Kernel.Configuration" Version="1.0.0" />
+    <PackageReference Include="Pirina.Kernel.Configuration" Version="1.0.0" />
   </ItemGroup>
 
 </Project>

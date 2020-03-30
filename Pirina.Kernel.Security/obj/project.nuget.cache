@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "+T/AXfDfwgutngV8Ko6dsrIOXfvquiHeSqrBLrnLx9gBiUOQrZZyVcdCLkCctT1bPiuHYkEV3qr4sr9+nfPgYg==",
+  "dgSpecHash": "PCSBSjr8yXl/336KwV15NSZoA0TamXJHzVX5GgjmODG52wTJY7HJr+NrbxIZvMiazT1OL2mhwDAG2W668kiGSg==",
   "success": true,
   "projectFilePath": "D:\\Software\\Document-management-system\\document-management-system-server-kernel\\Pirina.Kernel.Security\\Pirina.Kernel.Security.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\pirina.kernel\\1.1.1\\pirina.kernel.1.1.1.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\pirina.kernel.reflection\\1.0.0\\pirina.kernel.reflection.1.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -493,6 +493,15 @@
           "build/netcoreapp1.0/NUnit3TestAdapter.props": {}
         }
       },
+      "Pirina.Kernel/1.1.2": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.1/Pirina.Kernel.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.1/Pirina.Kernel.dll": {}
+        }
+      },
       "runtime.native.System/4.3.0": {
         "type": "package",
         "dependencies": {
@@ -1476,6 +1485,9 @@
       "Pirina.Kernel.Reflection/1.0.4": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "Pirina.Kernel": "1.1.2"
+        },
         "compile": {
           "bin/placeholder/Pirina.Kernel.Reflection.dll": {}
         },
@@ -2168,6 +2180,17 @@
         "build/netcoreapp1.0/nunit.engine.netstandard.dll",
         "nunit3testadapter.3.10.0.nupkg.sha512",
         "nunit3testadapter.nuspec"
+      ]
+    },
+    "Pirina.Kernel/1.1.2": {
+      "sha512": "PLsDJHJzosx6o5P/ITjEyVIadb2Hv0DmGV91sVlXBqkqKyYKnAbyPMdhhTkf7M0NjB1YuTgnvfhp9+u7uq2iSQ==",
+      "type": "package",
+      "path": "pirina.kernel/1.1.2",
+      "files": [
+        ".nupkg.metadata",
+        "lib/netstandard2.1/Pirina.Kernel.dll",
+        "pirina.kernel.1.1.2.nupkg.sha512",
+        "pirina.kernel.nuspec"
       ]
     },
     "runtime.native.System/4.3.0": {

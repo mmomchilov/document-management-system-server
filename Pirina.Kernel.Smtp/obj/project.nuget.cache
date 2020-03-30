@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "JZ01MNFUMRTtjDoRqrqy3HxcRRae9QY/7MMUDT8zUxIYrbvrKPXQFbU7psHZhplxU2wXuhKpZxONh13/ueMzmg==",
+  "dgSpecHash": "hipIz+RbESdksMNILV4tEKr3o1/dbtG06Y/vCRJGz28Rhxcb7FHH7e7LADP2B7TisPhk5/iOwVvztYJLHMmsAg==",
   "success": true,
   "projectFilePath": "D:\\Software\\Document-management-system\\document-management-system-server-kernel\\Pirina.Kernel.Smtp\\Pirina.Kernel.Smtp.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\pirina.kernel.mime\\1.0.0\\pirina.kernel.mime.1.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

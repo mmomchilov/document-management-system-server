@@ -1,9 +1,9 @@
+D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Authentication\bin\Debug\netstandard2.1\Pirina.Kernel.Authentication.deps.json
+D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Authentication\bin\Debug\netstandard2.1\Pirina.Kernel.Authentication.dll
+D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Authentication\bin\Debug\netstandard2.1\Pirina.Kernel.Authentication.pdb
+D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Authentication\obj\Debug\netstandard2.1\Pirina.Kernel.Authentication.csprojAssemblyReference.cache
 D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Authentication\obj\Debug\netstandard2.1\Pirina.Kernel.Authentication.csproj.CoreCompileInputs.cache
 D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Authentication\obj\Debug\netstandard2.1\Pirina.Kernel.Authentication.AssemblyInfoInputs.cache
 D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Authentication\obj\Debug\netstandard2.1\Pirina.Kernel.Authentication.AssemblyInfo.cs
-D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Authentication\bin\Debug\netstandard2.1\Pirina.Kernel.Authentication.deps.json
-D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Authentication\bin\Debug\netstandard2.1\Pirina.Kernel.Authentication.dll
-D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Authentication\obj\Debug\netstandard2.1\Pirina.Kernel.Authentication.csprojAssemblyReference.cache
-D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Authentication\bin\Debug\netstandard2.1\Pirina.Kernel.Authentication.pdb
 D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Authentication\obj\Debug\netstandard2.1\Pirina.Kernel.Authentication.dll
 D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Authentication\obj\Debug\netstandard2.1\Pirina.Kernel.Authentication.pdb

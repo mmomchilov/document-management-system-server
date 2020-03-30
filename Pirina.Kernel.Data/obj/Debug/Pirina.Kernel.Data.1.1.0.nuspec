@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Pirina.Kernel.Data</id>
+    <version>1.1.0</version>
+    <authors>Pirina.Kernel.Data</authors>
+    <owners>Pirina.Kernel.Data</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Provides abstractions and base functionality for data repository and ORM.</description>
+    <dependencies>
+      <group targetFramework=".NETStandard2.1">
+        <dependency id="Pirina.Kernel" version="1.1.2" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Data\bin\Debug\netstandard2.1\Pirina.Kernel.Data.dll" target="lib\netstandard2.1\Pirina.Kernel.Data.dll" />
+  </files>
+</package>

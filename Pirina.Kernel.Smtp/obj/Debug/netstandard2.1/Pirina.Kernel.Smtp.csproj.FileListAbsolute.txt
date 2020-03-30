@@ -1,4 +1,9 @@
+D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Smtp\bin\Debug\netstandard2.1\Pirina.Kernel.Smtp.deps.json
+D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Smtp\bin\Debug\netstandard2.1\Pirina.Kernel.Smtp.dll
+D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Smtp\bin\Debug\netstandard2.1\Pirina.Kernel.Smtp.pdb
 D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Smtp\obj\Debug\netstandard2.1\Pirina.Kernel.Smtp.csprojAssemblyReference.cache
 D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Smtp\obj\Debug\netstandard2.1\Pirina.Kernel.Smtp.csproj.CoreCompileInputs.cache
 D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Smtp\obj\Debug\netstandard2.1\Pirina.Kernel.Smtp.AssemblyInfoInputs.cache
 D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Smtp\obj\Debug\netstandard2.1\Pirina.Kernel.Smtp.AssemblyInfo.cs
+D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Smtp\obj\Debug\netstandard2.1\Pirina.Kernel.Smtp.dll
+D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Smtp\obj\Debug\netstandard2.1\Pirina.Kernel.Smtp.pdb

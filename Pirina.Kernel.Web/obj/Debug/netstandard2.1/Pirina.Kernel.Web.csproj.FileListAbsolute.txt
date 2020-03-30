@@ -1,0 +1,9 @@
+D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Web\bin\Debug\netstandard2.1\Pirina.Kernel.Web.deps.json
+D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Web\bin\Debug\netstandard2.1\Pirina.Kernel.Web.dll
+D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Web\bin\Debug\netstandard2.1\Pirina.Kernel.Web.pdb
+D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Web\obj\Debug\netstandard2.1\Pirina.Kernel.Web.csprojAssemblyReference.cache
+D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Web\obj\Debug\netstandard2.1\Pirina.Kernel.Web.csproj.CoreCompileInputs.cache
+D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Web\obj\Debug\netstandard2.1\Pirina.Kernel.Web.AssemblyInfoInputs.cache
+D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Web\obj\Debug\netstandard2.1\Pirina.Kernel.Web.AssemblyInfo.cs
+D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Web\obj\Debug\netstandard2.1\Pirina.Kernel.Web.dll
+D:\Software\Document-management-system\document-management-system-server-kernel\Pirina.Kernel.Web\obj\Debug\netstandard2.1\Pirina.Kernel.Web.pdb
